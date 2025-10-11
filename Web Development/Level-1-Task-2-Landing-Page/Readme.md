@@ -41,3 +41,9 @@ Here’s how the landing page looks 👇
 ![Home Page](Images/OutPut/Output_Home.png)![Features Section](Images/OutPut/Output_Features.png)![About Section](Images/OutPut/Output_About.png)![Review & Contact Section](Images/OutPut/Output_Review_Contact.png)
 
 ---
+
+## 🧾 Preview
+
+| Hero Section | Features Section | About Section | Review & Contact Section |
+|---------------|------------------|-----------------||-----------------|
+| ![Hero](Images/OutPut/Output_Home.png) | ![Features](Images/OutPut/Output_Features.png) |![About](Images/OutPut/Output_About.png) | ![Review&Contact](Images/OutPut/Output_Review_Contact.png) |
