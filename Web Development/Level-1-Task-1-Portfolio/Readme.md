@@ -28,7 +28,7 @@ This project showcases my skills, projects, and achievements with a modern, resp
 ---
 
 ## 🖼 Preview
-| ![Home](Images/Output1.png) | ![Skills](Images/Output2.png) | ![Projects](Images/Output3.png) |![Contact](Images/Output4.png) |
+![Home](Images/Output1.png)  ![Skills](Images/Output2.png)  ![Projects](Images/Output3.png) ![Contact](Images/Output4.png) 
 
 ---
 
