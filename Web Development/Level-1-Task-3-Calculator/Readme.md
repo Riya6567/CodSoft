@@ -22,9 +22,7 @@ It’s a beginner-friendly project to practice *DOM manipulation, **event handli
 
 ## 🖼 Sample Output
 
-![Calculator Preview](Images/calculator-screenshot.png)
-
-> Replace the above path (Images/calculator-screenshot.png) with your actual image location (for example: ./Images/output.png).
+![Calculator Preview](Calculator_Output.png)
 
 ---
 
@@ -32,7 +30,7 @@ It’s a beginner-friendly project to practice *DOM manipulation, **event handli
 
 - *HTML5* – Structure  
 - *CSS3* – Styling and layout  
-- *JavaScript (ES6)* – Functionality
+- *JavaScript* – Functionality
 
 ---
 
