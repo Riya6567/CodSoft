@@ -43,4 +43,11 @@ This project showcases my skills, projects, and achievements with a modern, resp
 To get a local copy of this project on your system, follow this:
 
 ```bash
+# Clone the main repositary
 git clone https://github.com/Riya6567/CodSoft.git
+```bash
+# Navigate to the Portfolio Project Folder
+cd "CodSoft/Web Development/Level-1-Task-1-Portfolio"
+```bash
+# Open the project in yout browser
+start portfolio.html 
